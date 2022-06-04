@@ -1,0 +1,92 @@
+[
+  {
+	"id": 1,
+	"title": "Cough",
+	"description": "How severe was the cough today?",
+	"frequency": 1
+  },
+  {
+	"id": 2,
+	"title": "Fever",
+	"description": "How severe was the fever today?",
+	"frequency": 1
+  },
+  {
+	"id": 3,
+	"title": "Cervical Lymph Nodes",
+	"description": "Have you noticed an increase in the size of the glands around the neck?",
+	"frequency": 7
+  },
+  {
+	"id": 4,
+	"title": "Sweat",
+	"description": "How much did he/she sweat last night?",
+	"frequency": 1
+  },
+  {
+	"id": 5,
+	"title": "Appetite",
+	"description": "How badly was the appetite of a child affected last week?",
+	"frequency": 7
+  },
+  {
+	"id": 6,
+	"title": "Abdominal pain",
+	"description": "How badly a child experienced abdominal pain during the past week?",
+	"frequency": 7
+  },
+  {
+	"id": 7,
+	"title": "Weight gain",
+	"description": "How difficult was it for a kid to gain weight in past 15 days?",
+	"frequency": 14
+  },
+  {
+	"id": 8,
+	"title": "Playfulness",
+	"description": "How playful was your kid today?",
+	"frequency": 1
+  },
+  {
+	"id": 9,
+	"title": "Anxiety",
+	"description": "How anxious was your child today?",
+	"frequency": 1
+  },
+  {
+	"id": 10,
+	"title": "Sleep quality",
+	"description": "How was the quality of sleep last night?",
+	"frequency": 1
+  },
+  {
+	"id": 11,
+	"title": "Care burden",
+	"description": "How much of a burden did you feel today?",
+	"frequency": 1
+  },
+  {
+	"id": 12,
+	"title": "Exposure to SHS",
+	"description": "How much your child was exposed to cigarette smoke today?",
+	"frequency": 1
+  },
+  {
+	"id": 13,
+	"title": "Exposure to cooking fuel burning",
+	"description": "How much your child was exposed to cooking fuel burning today?",
+	"frequency": 1
+  },
+  {
+	"id": 14,
+	"title": "Exposure to traffic pollution",
+	"description": "How much your child was exposed to pollution caused by road traffic today?",
+	"frequency": 1
+  },
+  {
+	"id": 15,
+	"title": "Overall exposure",
+	"description": "How much your child was exposed to air pollutants last week?",
+	"frequency": 7
+  }
+]

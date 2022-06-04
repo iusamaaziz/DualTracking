@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualTracking.Api", "DualTracking.Api\DualTracking.Api.csproj", "{379F19FF-795E-4A43-B7FF-E3A3D20C13CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualTracking.Database", "DualTracking.Database\DualTracking.Database.csproj", "{25ED45C4-3B9A-4DF6-A7B5-A896DFD098D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379F19FF-795E-4A43-B7FF-E3A3D20C13CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379F19FF-795E-4A43-B7FF-E3A3D20C13CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379F19FF-795E-4A43-B7FF-E3A3D20C13CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379F19FF-795E-4A43-B7FF-E3A3D20C13CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25ED45C4-3B9A-4DF6-A7B5-A896DFD098D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25ED45C4-3B9A-4DF6-A7B5-A896DFD098D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25ED45C4-3B9A-4DF6-A7B5-A896DFD098D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25ED45C4-3B9A-4DF6-A7B5-A896DFD098D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7C106D-E26C-4023-98EA-D846640D9361}
+	EndGlobalSection
+EndGlobal
